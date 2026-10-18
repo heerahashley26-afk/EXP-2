@@ -53,16 +53,22 @@ Tabulation for Open Circuit Test
 Model graph:
 <img width="1622" height="542" alt="Screenshot 2026-10-12 125926" src="https://github.com/user-attachments/assets/f2993f4d-04e2-42e6-9907-30abddf9e591" />
 
-Calculation: 
+Calculation:
+
 <img width="323" height="249" alt="Screenshot 2026-10-12 130031" src="https://github.com/user-attachments/assets/89ab148a-23e5-47fd-8efb-0290b31eccd7" />
 
 Magnatization Load Characteristics:
 
 Tabulation for load Test:
+
 <img width="1282" height="775" alt="Screenshot 2026-10-18 160645" src="https://github.com/user-attachments/assets/c4f53db0-c9b1-43d2-b26b-2b510781dad2" />
+
 Model graph:
+
 <img width="735" height="345" alt="Screenshot 2026-10-18 160736" src="https://github.com/user-attachments/assets/df43c858-98f6-4435-b5bf-501e5e7ba820" />
+
 calculation:
+
 <img width="383" height="342" alt="Screenshot 2026-10-18 160722" src="https://github.com/user-attachments/assets/e8cdc6f7-4a4b-4ddc-a67e-fc84a539158c" />
  
 Result:
